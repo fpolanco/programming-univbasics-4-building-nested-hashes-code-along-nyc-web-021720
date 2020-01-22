@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  def epic_tragedy
+  #def epic_tragedy
   epic_tragedyegy[:montague][:hero][:status] = "dead"
   epic_tragedy[:capulet][:heroine][:status] = "dead"
   #code your solution here:
